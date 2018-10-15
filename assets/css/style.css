@@ -214,6 +214,7 @@ DEFAULT WIDTHS & POSITIONS
     background: #ffffff;
     box-sizing: border-box;
     border: 1px solid #dddddd;
+    position: static;
 }
 
 .navbar {
